@@ -1,4 +1,4 @@
-Foodie: React and Redux-Powered Food Ordering Website
+#Foodie: React and Redux-Powered Food Ordering Website
 Overview
 ![foodie](https://github.com/vipulghadi/PROJECT-Foodie/assets/99540970/aa2411a6-167b-431f-996c-7752ddc5a3e3)
 
