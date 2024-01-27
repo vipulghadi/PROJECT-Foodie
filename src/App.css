@@ -1,0 +1,91 @@
+.link {
+    cursor: pointer;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.txt-sm {
+    font-size: 8px;
+}
+
+* {
+    outline: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.transperent {
+    background: rgba(32, 33, 32, 0.3)
+}
+
+.sidebar {
+    transition: all 2s;
+}
+
+.c-item {
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.txt-vsm {
+    font-size: 6px;
+}
+
+.z-inedex-n5 {
+    z-index: -100;
+}
+
+.img-small {
+    width: 100px;
+    height: 100px;
+}
+
+.txt-md {
+    font-size: 12px;
+}
+
+.cat-effect {
+    background-color: rgb(101, 183, 65);
+    color: white;
+    font-size: 14px;
+    transition: all 0.5s ease;
+}
+
+.cat-effect:hover {
+    background-color: rgb(103, 249, 59);
+}
+
+.cat-effect:focus {
+    background-color: rgb(229, 187, 82);
+}
+
+.cart-btn:hover {
+    background-color: rgb(103, 249, 59);
+}
+
+.cart-btn {
+    background-color: rgb(124, 222, 75);
+}
+
+.img-effect {
+    transition: all 0.3s ease-in-out;
+    z-index: 0;
+}
+
+.img-effect:hover {
+    transform: scale(1.2);
+}
+
+.z-max {
+    z-index: 10;
+}
+
+.z-maxi {
+    z-index: 11;
+}
